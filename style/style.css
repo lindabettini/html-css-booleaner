@@ -59,3 +59,22 @@ ul{
 li{
     margin-left: 20px;;
 }
+
+/* TABELLA */
+table{
+    margin-top: 15px;
+    border-spacing: 0;
+}
+
+th{
+    background-color:  RGB(78, 160, 255);
+    text-align: left;
+}
+
+.column-setting{
+    width: 25%;
+    }
+
+.blue{
+    background-color: rgb(188, 206, 241);
+}
