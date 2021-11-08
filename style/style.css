@@ -45,7 +45,10 @@ h1 {
 
 figcaption{
     font-size: 14px;
-    margin-bottom: 15px;
+}
+
+p{
+    margin-top: 20px;;
 }
 
 .highlightme {
@@ -53,16 +56,16 @@ figcaption{
 }
 
 ul{
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 li{
     margin-left: 20px;;
 }
 
-/* TABELLA */
+/*INIZIO TABELLA */
 table{
-    margin-top: 15px;
+    margin-top: 20px;
     border-spacing: 0;
 }
 
@@ -78,3 +81,4 @@ th{
 .blue{
     background-color: rgb(188, 206, 241);
 }
+/* FINE TABELLA */
