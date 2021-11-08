@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+
+header {
+    height: 100px;
+    background-color: RGB(78, 160, 255);
+    background-image: url(../img/pattern.png);
+    background-position: top;
+    background-size: 30%;
+    position: relative;
+}
+
+#container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+#logo {
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    bottom: 10px;
+    margin-left: 10%;
+    background-size: 100%;
+    background-image: url(../img/logo.svg); 
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+#article-details {
+    color: darkgray;
+    font-weight: bold;
+}
+
+#blue-text {
+    color: RGB(78, 160, 255);
+}
+#article-date {
+    color: darkgray;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+figcaption{
+    font-size: 14px;
+}
+
+p{
+    margin-top: 20px;;
+}
+
+.highlightme {
+    background-color: yellow ;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+li{
+    margin-left: 20px;;
+}
+
+/*INIZIO TABELLA */
+table{
+    margin-top: 20px;
+    border-spacing: 0;
+}
+
+th{
+    background-color:  RGB(78, 160, 255);
+    text-align: left;
+}
+
+.column-setting{
+    width: 25%;
+    }
+
+.blue{
+    background-color: rgb(188, 206, 241);
+}
+/* FINE TABELLA */
+
+#suggestions{
+    margin-top: 20px;
+    color: rgb(83, 83, 83);
+}
+
+.link-suggestion{
+    height: 150px;
+    width: 250px;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#first-link{
+    background-image: url(../img/monitor.jpg);
+    background-position: center;
+}
+
+#second-link{
+    background-image: url(../img/graph.jpg);
+    background-position: center;
+    margin-bottom: 20px;
+}
+
+.title-suggestion{
+    margin-left: 5px;
+}
