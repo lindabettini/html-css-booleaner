@@ -13,6 +13,11 @@ header {
     position: relative;
 }
 
+h1 {
+    margin-top: 15px;
+    font-size: 40px;
+}
+
 #logo {
     height: 50px;
     width: 200px;
@@ -35,6 +40,7 @@ header {
 #article-date {
     color: darkgray;
     font-size: 12px;
+    margin-bottom: 15px;
 }
 
 figcaption{
