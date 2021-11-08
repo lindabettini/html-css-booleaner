@@ -23,3 +23,20 @@ header {
     background-repeat: no-repeat;
     background-position: left bottom;
 }
+
+#article-details {
+    color: darkgray;
+    font-weight: bold;
+}
+
+#blue-text {
+    color: RGB(78, 160, 255);
+}
+#article-date {
+    color: darkgray;
+    font-size: 12px;
+}
+
+figcaption{
+    font-size: 14px;
+}
